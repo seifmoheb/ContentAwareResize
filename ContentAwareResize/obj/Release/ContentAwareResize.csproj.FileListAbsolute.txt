@@ -1,0 +1,6 @@
+C:\Users\seif\Downloads\[CHP]Task\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Release\ContentAwareResize.csprojAssemblyReference.cache
+C:\Users\seif\Downloads\[CHP]Task\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Release\ContentAwareResize.Form1.resources
+C:\Users\seif\Downloads\[CHP]Task\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Release\ContentAwareResize.ImageForm.resources
+C:\Users\seif\Downloads\[CHP]Task\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Release\ContentAwareResize.Properties.Resources.resources
+C:\Users\seif\Downloads\[CHP]Task\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Release\ContentAwareResize.csproj.GenerateResource.cache
+C:\Users\seif\Downloads\[CHP]Task\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Release\ContentAwareResize.csproj.CoreCompileInputs.cache
